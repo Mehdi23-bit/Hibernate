@@ -1,0 +1,6 @@
+com/hibernate/Student.class
+com/hibernate/App.class
+com/hibernate/Course.class
+com/hibernate/CardID.class
+com/hibernate/Departement.class
+com/hibernate/HibernateUtil.class
